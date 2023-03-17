@@ -25,7 +25,7 @@ git clone https://github.com/Diindnn/Tugas3_PAM
 2. Install all dependencies
 
 ```bash
-npm install
+npm install / npm install --global expo-cli
 ```
 
 3. Run the app
