@@ -62,7 +62,7 @@ Download the app from the link that is given on the terminal.
 
 ## Screenshot
 
-<img src="./assets/home.jpeg" width=200>
+<img src="./assets/Home.jpeg" width=200>
 <img src="./assets/detail.jpeg" width=200>
 
 ## Author
